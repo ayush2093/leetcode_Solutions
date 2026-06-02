@@ -8,12 +8,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
