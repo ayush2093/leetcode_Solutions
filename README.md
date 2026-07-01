@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0344-reverse-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -53,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
