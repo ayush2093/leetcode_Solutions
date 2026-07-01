@@ -7,10 +7,12 @@ public:
             if(nums[i]==1){
                 count++;
             }
-            maxi=max(maxi,count);
+            
             if(nums[i]==0){
                 count=0;
             }
+            
+            maxi=max(maxi,count);
         }
         return maxi;
     }
