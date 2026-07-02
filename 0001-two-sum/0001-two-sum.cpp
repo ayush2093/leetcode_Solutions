@@ -8,6 +8,7 @@ public:
             if(nums[i]+nums[j]==target && i!=j){
                 ans1=i;
                 ans2=j;
+                break;
             }
         }
       } 
