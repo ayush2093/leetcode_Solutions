@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -69,4 +71,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
