@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1668-maximum-repeating-substring](https://github.com/ayush2093/leetcode_Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
