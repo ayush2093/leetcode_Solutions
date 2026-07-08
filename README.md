@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/ayush2093/leetcode_Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -114,4 +116,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
