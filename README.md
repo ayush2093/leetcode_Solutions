@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayush2093/leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -142,4 +143,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayush2093/leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
