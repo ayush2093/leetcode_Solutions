@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0136-single-number/) | Easy |
+| [0190-reverse-bits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
 ## Hash Table
@@ -148,4 +149,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayush2093/leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
