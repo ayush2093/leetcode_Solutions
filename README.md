@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ayush2093/leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/ayush2093/leetcode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ayush2093/leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/ayush2093/leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0136-single-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/ayush2093/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayush2093/leetcode_Solutions/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/ayush2093/leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ayush2093/leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ayush2093/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
