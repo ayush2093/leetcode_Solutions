@@ -189,4 +189,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/ayush2093/leetcode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
