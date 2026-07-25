@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/ayush2093/leetcode_Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ayush2093/leetcode_Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ayush2093/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0507-perfect-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/ayush2093/leetcode_Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/ayush2093/leetcode_Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ayush2093/leetcode_Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
