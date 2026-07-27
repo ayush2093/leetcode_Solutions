@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/ayush2093/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0812-largest-triangle-area](https://github.com/ayush2093/leetcode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1975-maximum-matrix-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -212,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
