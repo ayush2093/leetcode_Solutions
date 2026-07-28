@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/ayush2093/leetcode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0292-nim-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0258-add-digits/) | Easy |
 | [1006-clumsy-factorial](https://github.com/ayush2093/leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
