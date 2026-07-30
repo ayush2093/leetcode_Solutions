@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/ayush2093/leetcode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [1006-clumsy-factorial](https://github.com/ayush2093/leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [1975-maximum-matrix-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/ayush2093/leetcode_Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bit Manipulation
