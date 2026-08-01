@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/ayush2093/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0812-largest-triangle-area](https://github.com/ayush2093/leetcode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/ayush2093/leetcode_Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ayush2093/leetcode_Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ayush2093/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/ayush2093/leetcode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -106,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0087-scramble-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0118-pascals-triangle](https://github.com/ayush2093/leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [1668-maximum-repeating-substring](https://github.com/ayush2093/leetcode_Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -174,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ayush2093/leetcode_Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/ayush2093/leetcode_Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/ayush2093/leetcode_Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -207,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
