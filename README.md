@@ -235,10 +235,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/ayush2093/leetcode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/ayush2093/leetcode_Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/ayush2093/leetcode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/ayush2093/leetcode_Solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
