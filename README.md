@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Two Pointers
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1975-maximum-matrix-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1668-maximum-repeating-substring](https://github.com/ayush2093/leetcode_Solutions/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Bit Manipulation
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0051-n-queens](https://github.com/ayush2093/leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0258-add-digits/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
