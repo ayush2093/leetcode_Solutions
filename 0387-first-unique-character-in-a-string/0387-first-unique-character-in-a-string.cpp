@@ -1,18 +1,15 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-       for(int i=0;i<s.length();i++){
-            int count=0;
-        for(int j=0;j<s.length();j++){
-            if(i!=j && s[i]==s[j]){
-                count++;
-                break;
+        unordered_map<char,int>freq;
+        for(char c:s){
+            freq[c]++;
+        }
+        for(int i=0;i<s.length();i++){
+            if(freq[s[i]]==1){
+                return i;
             }
         }
-        if(count==0){
-        return i;
-       }
-    }
-    return -1;
+        return -1;
     }
 };
