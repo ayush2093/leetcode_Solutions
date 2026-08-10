@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/ayush2093/leetcode_Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0507-perfect-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/ayush2093/leetcode_Solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0812-largest-triangle-area](https://github.com/ayush2093/leetcode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
 | [0877-stone-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/ayush2093/leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
