@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/ayush2093/leetcode_Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0045-jump-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0051-n-queens](https://github.com/ayush2093/leetcode_Solutions/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/ayush2093/leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ayush2093/leetcode_Solutions/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/ayush2093/leetcode_Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/ayush2093/leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0087-scramble-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
 | [0118-pascals-triangle](https://github.com/ayush2093/leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ayush2093/leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/ayush2093/leetcode_Solutions/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/ayush2093/leetcode_Solutions/tree/main/0190-reverse-bits/) | Easy |
 ## Brainteaser
