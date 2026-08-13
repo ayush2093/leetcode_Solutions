@@ -16,6 +16,6 @@ public:
                 return i;
             }
         }
-        return nums[n]+1;
+        return nums[n]+1;  
     }
 };
