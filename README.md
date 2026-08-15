@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush2093/leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/ayush2093/leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/ayush2093/leetcode_Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush2093/leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
