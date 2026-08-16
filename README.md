@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/ayush2093/leetcode_Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0812-largest-triangle-area](https://github.com/ayush2093/leetcode_Solutions/tree/main/0812-largest-triangle-area/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/ayush2093/leetcode_Solutions/tree/main/0367-valid-perfect-square/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -363,4 +365,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ayush2093/leetcode_Solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
