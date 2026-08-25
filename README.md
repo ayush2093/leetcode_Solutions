@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/ayush2093/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayush2093/leetcode_Solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1406-stone-game-iii](https://github.com/ayush2093/leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0268-missing-number/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/ayush2093/leetcode_Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1655-distribute-repeating-integers](https://github.com/ayush2093/leetcode_Solutions/tree/main/1655-distribute-repeating-integers/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayush2093/leetcode_Solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
