@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/ayush2093/leetcode_Solutions/tree/main/0877-stone-game/) | Medium |
 | [1006-clumsy-factorial](https://github.com/ayush2093/leetcode_Solutions/tree/main/1006-clumsy-factorial/) | Medium |
 | [1140-stone-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1323-maximum-69-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1390-four-divisors](https://github.com/ayush2093/leetcode_Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1406-stone-game-iii](https://github.com/ayush2093/leetcode_Solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/ayush2093/leetcode_Solutions/tree/main/1510-stone-game-iv/) | Hard |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ayush2093/leetcode_Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/0045-jump-game-ii/) | Medium |
+| [1323-maximum-69-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1975-maximum-matrix-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/1975-maximum-matrix-sum/) | Medium |
 | [2029-stone-game-ix](https://github.com/ayush2093/leetcode_Solutions/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayush2093/leetcode_Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
