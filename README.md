@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ayush2093/leetcode_Solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush2093/leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ayush2093/leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayush2093/leetcode_Solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
