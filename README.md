@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayush2093/leetcode_Solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/ayush2093/leetcode_Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/ayush2093/leetcode_Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ayush2093/leetcode_Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1140-stone-game-ii](https://github.com/ayush2093/leetcode_Solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/ayush2093/leetcode_Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
