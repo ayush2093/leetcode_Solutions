@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/ayush2093/leetcode_Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/ayush2093/leetcode_Solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0087-scramble-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0115-distinct-subsequences](https://github.com/ayush2093/leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/ayush2093/leetcode_Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0486-predict-the-winner](https://github.com/ayush2093/leetcode_Solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ayush2093/leetcode_Solutions/tree/main/0509-fibonacci-number/) | Easy |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ayush2093/leetcode_Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0087-scramble-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0087-scramble-string/) | Hard |
+| [0115-distinct-subsequences](https://github.com/ayush2093/leetcode_Solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0242-valid-anagram](https://github.com/ayush2093/leetcode_Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ayush2093/leetcode_Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
